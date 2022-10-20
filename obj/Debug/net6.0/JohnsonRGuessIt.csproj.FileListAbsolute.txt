@@ -1,0 +1,15 @@
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\bin\Debug\net6.0\JohnsonRGuessIt.exe
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\bin\Debug\net6.0\JohnsonRGuessIt.deps.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\bin\Debug\net6.0\JohnsonRGuessIt.runtimeconfig.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\bin\Debug\net6.0\JohnsonRGuessIt.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\bin\Debug\net6.0\JohnsonRGuessIt.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.csproj.AssemblyReference.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.AssemblyInfoInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.AssemblyInfo.cs
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.csproj.CoreCompileInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\refint\JohnsonRGuessIt.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\JohnsonRGuessIt.genruntimeconfig.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRGuessIt\obj\Debug\net6.0\ref\JohnsonRGuessIt.dll
