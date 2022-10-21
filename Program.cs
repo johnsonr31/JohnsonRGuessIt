@@ -17,6 +17,7 @@ string? option;
 bool validNum = false;
 bool isNumber;
 
+Console.Clear();
 
     Console.WriteLine("Want to Guess what Number I'm thinking of?");
     Console.Write("Type YES or NO: ");
@@ -117,7 +118,7 @@ while(playAgain == true)
                     Console.WriteLine($"{winningNum} is the correct answer!");
                     Console.WriteLine($"It took {guessCount} attempts to find it.");
                     Console.WriteLine($" ");
-                    Console.Write($"Do you want to play again? YES or NO:");
+                    Console.Write($"Do you want to play again? YES or NO: ");
                     guessCount = 0;
                     input = Console.ReadLine();
                     input = input.ToUpper();
