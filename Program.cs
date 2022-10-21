@@ -21,13 +21,13 @@ Console.Clear();
 
     Console.WriteLine("Want to Guess what Number I'm thinking of?");
     Console.Write("Type YES or NO: ");
-    string yesNo = Console.ReadLine();
-    yesNo = yesNo.ToUpper();
-    isNumber = Int32.TryParse(yesNo, out num);
 
 // This while loop will run as long as playAgain is true
 while(playAgain == true)
 {
+    string yesNo = Console.ReadLine();
+    yesNo = yesNo.ToUpper();
+    isNumber = Int32.TryParse(yesNo, out num);
 
         if(yesNo == "NO" && isNumber != true)
         {
